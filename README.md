@@ -1,1 +1,1 @@
-# NumberGuessing
+# Simple number guessing menggunakan python
